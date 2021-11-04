@@ -37,7 +37,7 @@ for row in MLBlist:
 
 
 
-#print send_text(8182812111, "lasttest")
+#print send_text(xxx, "lasttest")
 
 
 
